@@ -131,7 +131,7 @@
     "schedule": {
       "title": "Agenda",
       "headerSettings": {
-        "backgroundColor": "#4dd0e1",
+        "backgroundColor": "#673ab7",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
