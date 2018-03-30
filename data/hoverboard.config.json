@@ -75,12 +75,12 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "OAB Amazonas",
+    "address": "Av. Umberto Calderaro, 2000",
+    "link": "http://oabam.org.br/site/",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": -3.0989737,
+      "longitude": -60.009417,
       "zoom": 15
     },
     "mapCenter": {
@@ -131,7 +131,7 @@
     "schedule": {
       "title": "Agenda",
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#4dd0e1",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
