@@ -1431,27 +1431,27 @@
   "tickets" : {
     "elements" : [ {
       "currency" : "₴",
-      "ends" : "Sep 8",
+      "ends" : "6 Abril",
       "info" : "Requires valid student ID",
       "name" : "Student",
-      "price" : 500,
+      "price" :  25,
       "soldOut" : false,
-      "starts" : "May 1"
+      "starts" : "21 de Março"
     }, {
       "currency" : "₴",
-      "ends" : "July 1",
+      "ends" : "20 de Abril",
       "info" : "Or first 100 tickets",
       "name" : "Early Bird",
-      "price" : 750,
-      "soldOut" : true,
-      "starts" : "May 1"
+      "price" : 40,
+      "soldOut" : false,
+      "starts" : "07 de Abril"
     }, {
       "currency" : "₴",
-      "ends" : "Sep 8",
+      "ends" : "28 de Abril",
       "name" : "Lazy Bird",
-      "price" : 1000,
+      "price" : 55,
       "soldOut" : false,
-      "starts" : "July 1"
+      "starts" : "21 de Abril"
     } ],
     "url" : "bitly.com/WomenTechday"
   },
