@@ -1,55 +1,56 @@
 {
-  "title": "GDG DevFest Season 2016",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
+  "title": "GDG Woman TechMakers",
+  "description": "O Woman Techday abordará as áreas relacionadas ao ciclo desenvolvimento de software, onde desenvolvedoras, testadoras, designers e gestoras de projetos abordarão temas como Machine Learning, Customer Development, Tecnologias de Acessibilidade, Ideação de Produtos e Realidade Virtual. Além disso, empreendedoras e líderes de comunidade estarão a frente de painéis temáticos para debate da atuação de mulheres liderando comunidades a frente de negócios.",
+  "keywords": "event, wtm, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "28 de Março, 2018",
+  "locationAddressShort": "Manaus, Am",
   "motto": "Be a GDG. Be a Hero!",
   "playIcon": "See how it was in 2015",
   "c4p": "Become a speaker",
-  "buyTicket": "Buy ticket",
-  "backToTop": "Back to top",
-  "subscribe": "Subscribe",
-  "yourEmail": "Your email",
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "contactUs": "Contact us",
-  "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "buyTicket": "COMPRE SEU INGRESSO",
+  "backToTop": "VOLTAR PARA O TOPO",
+  "subscribe": "Inscreva-se",
+  "yourEmail": "Seu e-mail",
+  "subscribeNote": "Sem spam, apenas as ultimas notícias e atualizações!",
+  "contactUs": "Contate-nos",
+  "ticketsTitle": "COMPRE SEU INGRESSO",
+  "ticketsDetails": "Os ingressos oferecem acesso a todas as seções da conferência. A acomodação não está incluída no preço do ingresso.",
   "close": "Close",
-  "soldOutTickets": "Sold Out",
+  "soldOutTickets": "ESGOTADO",
   "socialTitle": "Social",
   "socialMotto": "Add to circles, like, follow or connect with us on",
   "beforeHashtag": "What's up",
-  "clickToViewPhotos": "Click here to view more photos",
-  "partners": "Partners",
-  "becomePartner": "Become a partner",
+  "clickToViewPhotos": "Clique aqui para ver mais fotos",
+  "partners": "Parceiros",
+  "becomePartner": "SEJA UM PARCEIRO",
   "featuredVideosTitle": "Featured #DFUA '15 Sessions",
   "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
+  "featuredPeopleTitle": "Palestrantes Rockstar",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
   "locationTitle": "Pivdennyi Expo Center",
   "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
   "locationAddress": "Shchyretska St, 36",
-  "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+  "organizerTitle": "Organização",
+  "aboutOrganizers": "O Techday Manaus será organizado pelo Women TechMaker e GDG Manaus.",
   "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
-  "readMore": "Read more",
-  "copyLink": "Copy link",
+  "whatIsGdg": "O que é GDG?",
+  "whatIsWtm": "O que é WTM?",
+  "aboutGdg": "Google Developer Group é uma comunidade aberta e voluntária para criar projetos interessantes e compartilhar experiências sobre tecnologias Google. O projeto faz parte de um programa global do Google para relacionamento com desenvolvedores",
+  "aboutWtm": "Woman TechMakers é um programa criado em 2014 pelo Google cujo objetivo é dar visibilidade, recursos e criar comunidades para incentivar a participação das mulheres na tecnologias.",
+  "readMore": "Ler Mais",
+  "copyLink": "Copiar link",
   "filteredBy": "filtered by",
-  "clearAll": "Clear all",
+  "clearAll": "Limpar tudo",
   "filter": "Filter",
   "latestNews": "Latest news",
-  "continueReading": "Continue reading",
+  "continueReading": "Continuar lendo",
   "viewPresentation": "View presentation",
   "viewVideo": "View video",
   "skills": "Skills",
   "share": "Share",
   "shareWith": "Share with",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
+
   "mySchedule": "My Schedule",
   "browseMore": "Browse more events",
   "youShouldSignInSessions": "Sign in to save sessions",
@@ -60,42 +61,17 @@
   "rateSession": "Rate session",
   "footerBlocks": [
     {
-      "title": "For visitors",
+      "title": "Para Visitantes",
       "links": [
-        {
-          "text": "Team",
-          "url": "/team/",
-          "newTab": false
-        },
-        {
-          "text": "Code of Conduct",
-          "url": "/cod/",
-          "newTab": false
-        },
         {
           "text": "Google Developers",
           "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "For Partners",
+      "title": "Para Parceiros",
       "links": [
         {
           "text": "Partnership Proposition",
@@ -118,24 +94,27 @@
       }
     ]
   },
-  "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+
   "statistics": [
     {
-      "counter": 600,
-      "caption": "Attendees"
+      "counter": 400,
+      "caption": "Palestrantes"
+    },
+    {
+      "counter": 12,
+      "caption": "Horas"
+    },
+    {
+      "counter": 9,
+      "caption": "Palestras"
     },
     {
       "counter": 2,
-      "caption": "Days"
+      "caption": "Painéis"
     },
     {
-      "counter": 30,
-      "caption": "Sessions"
-    },
-    {
-      "counter": 3,
-      "caption": "Tracks"
+      "counter": 1,
+      "caption": "Coding Dojo"
     }
   ],
   "callToAction": {
