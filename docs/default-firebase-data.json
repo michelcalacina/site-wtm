@@ -9,31 +9,7 @@
     "title" : "Template Creator"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
+      "logoUrl" : "../images/logos/GoogleDevelopers.svg",
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
     }, {
@@ -1477,7 +1453,7 @@
       "soldOut" : false,
       "starts" : "July 1"
     } ],
-    "url" : "http://2event.com/events/630032"
+    "url" : "bitly.com/WomenTechday"
   },
   "videos" : [ {
     "speakers" : "Jakub Škvára",
