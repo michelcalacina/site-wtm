@@ -33,7 +33,7 @@
   "locationAddress": "Shchyretska St, 36",
   "organizerTitle": "Organização",
   "aboutOrganizers": "O Techday Manaus será organizado pelo Women TechMaker e GDG Manaus.",
-  "openTeamPage": "Open team page",
+  "openTeamPage": "GDG Manaus",
   "whatIsGdg": "O que é GDG?",
   "whatIsWtm": "O que é WTM?",
   "aboutGdg": "Google Developer Group é uma comunidade aberta e voluntária para criar projetos interessantes e compartilhar experiências sobre tecnologias Google. O projeto faz parte de um programa global do Google para relacionamento com desenvolvedores",
@@ -74,11 +74,6 @@
       "title": "Para Parceiros",
       "links": [
         {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
           "text": "Media Kit",
           "url": "http://bit.ly/df16-media",
           "newTab": true
@@ -89,19 +84,19 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "gdgmanaus@gmail.com",
+        "url": "mailto:gdgmanaus@gmail.com"
       }
     ]
   },
 
   "statistics": [
     {
-      "counter": 400,
+      "counter": "+400",
       "caption": "Palestrantes"
     },
     {
-      "counter": 12,
+      "counter": "+12",
       "caption": "Horas"
     },
     {
