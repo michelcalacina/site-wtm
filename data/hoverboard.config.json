@@ -1,5 +1,5 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://site-wtm.firebaseio.com/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
@@ -7,7 +7,7 @@
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
+    "name": "GDG Manaus",
     "twitter": "gdglviv"
   },
   "webapp": {
@@ -15,15 +15,20 @@
     "themeColor": "#F57C00",
     "backgroundColor": "#F57C00"
   },
+
+
+
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "site-wtm",
+    "domain": "site-wtm.firebaseapp.com",
+    "database": "https://site-wtm.firebaseio.com",
+    "api": "AIzaSyDljOzZ5NhaS7r31mXqtLhKGrNP-el0xB4",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
   },
+
+
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
