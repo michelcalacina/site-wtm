@@ -26,14 +26,14 @@
   "featuredVideosTitle": "Featured #DFUA '15 Sessions",
   "featuredVideosViewAll": "View all videos",
   "featuredPeopleTitle": "Palestrantes",
-  "featuredPeopleViewAll": "View all speakers",
+  "featuredPeopleViewAll": "Ver todos os Palestrantes",
   "action": "See how it was",
   "locationTitle": "OAB AMAZONAS",
   "locationDescription": "OAB AMAZONAS",
   "locationAddress": "Umberto Calderaro, 2000 · (92) 3642-0016",
   "organizerTitle": "Organização",
   "aboutOrganizers": "O Techday Manaus será organizado pelo Women TechMaker e GDG Manaus.",
-  "openTeamPage": "Open team page",
+  "openTeamPage": "GDG Manaus",
   "whatIsGdg": "O que é GDG?",
   "whatIsWtm": "O que é WTM?",
   "aboutGdg": "Google Developer Group é uma comunidade aberta e voluntária para criar projetos interessantes e compartilhar experiências sobre tecnologias Google. O projeto faz parte de um programa global do Google para relacionamento com desenvolvedores",
@@ -74,11 +74,6 @@
       "title": "Para Parceiros",
       "links": [
         {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
           "text": "Media Kit",
           "url": "http://bit.ly/df16-media",
           "newTab": true
@@ -97,11 +92,11 @@
 
   "statistics": [
     {
-      "counter": 400,
+      "counter": "+400",
       "caption": "Palestrantes"
     },
     {
-      "counter": 12,
+      "counter": "+12",
       "caption": "Horas"
     },
     {
@@ -118,7 +113,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
+    "videoTitle": "Woman Techday 2018",
     "videoId": "DfMnJAzOFng"
   }
 }
