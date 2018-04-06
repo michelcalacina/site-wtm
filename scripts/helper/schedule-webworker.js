@@ -62,22 +62,28 @@ self.addEventListener('message', function (e) {
         for (var sessionIndex = 0, sessionsLen = timeslot.sessions.length; sessionIndex < sessionsLen; sessionIndex++) {
           for (var subSessIdx = 0, subSessionsLen = timeslot.sessions[sessionIndex].length; subSessIdx < subSessionsLen; subSessIdx++) {
             var session = sessions[timeslot.sessions[sessionIndex][subSessIdx]];
-            session.mainTag = session.tags ? session.tags[0] : 'General';
-            session.day = dayIdx + 1;
+            if (!!session){
+              if (session.id === 117 || session.id === 118 || session.id === 119){
+                session.mainTag = session.tags ? sessions.tags[1] : '';
+              } else {
+                session.mainTag = session.tags ? session.tags[0]: '';
+              }
+              session.mainTag = session.tags ? session.tags[0] : 'General';
+              session.day = dayIdx + 1;
 
-            addTagTo(session.mainTag, day.tags);
-            addTagTo(session.mainTag, schedule.tags);
+              addTagTo(session.mainTag, day.tags);
+              addTagTo(session.mainTag, schedule.tags);
 
-            if (!isDefined(session.track)) {
-              session.track = day.tracks[sessionIndex];
+              if (!isDefined(session.track)) {
+                session.track = day.tracks[sessionIndex];
+              }
+              session.startTime = timeslot.startTime;
+              session.endTime = subSessionsLen > 1 ? getEndTime(day.date, timeslot.startTime, timeslot.endTime, subSessionsLen, subSessIdx + 1) : timeslot.endTime;
+              session.dateReadable = day.dateReadable;
+
+              attachSessionAndSpeakersTogether(session, speakers);
+              schedule[dayIdx].timeslots[timeSlotIdx].sessions[sessionIndex][subSessIdx] = session;
             }
-            session.startTime = timeslot.startTime;
-            session.endTime = subSessionsLen > 1 ? getEndTime(day.date, timeslot.startTime, timeslot.endTime, subSessionsLen, subSessIdx + 1) : timeslot.endTime;
-            session.dateReadable = day.dateReadable;
-
-            attachSessionAndSpeakersTogether(session, speakers);
-
-            schedule[dayIdx].timeslots[timeSlotIdx].sessions[sessionIndex][subSessIdx] = session;
           }
         }
       }
