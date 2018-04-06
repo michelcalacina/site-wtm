@@ -64,10 +64,10 @@ self.addEventListener('message', function (e) {
             var session = sessions[timeslot.sessions[sessionIndex][subSessIdx]];
             if (!!session){
               if (session.id === 117 || session.id === 118 || session.id === 119){
-                session.mainTag = session.tags ? sessions.tags[1] : '';
-              } else {
-                session.mainTag = session.tags ? session.tags[0]: '';
-              }
+                 session.mainTag = session.tags ? sessions.tags[1] : '';
+               } else {
+                 session.mainTag = session.tags ? session.tags[0]: '';
+               }
               session.mainTag = session.tags ? session.tags[0] : 'General';
               session.day = dayIdx + 1;
 
