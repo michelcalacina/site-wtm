@@ -1,5 +1,5 @@
 {
-  "url": "https://site-wtm.firebaseio.com/",
+  "url": "https://wtm-manaus.firebaseio.com/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
@@ -19,10 +19,10 @@
 
 
   "firebase": {
-    "name": "site-wtm",
-    "domain": "site-wtm.firebaseapp.com",
-    "database": "https://site-wtm.firebaseio.com",
-    "api": "AIzaSyDljOzZ5NhaS7r31mXqtLhKGrNP-el0xB4",
+    "name": "wtm-manaus",
+    "domain": "wtm-manaus.firebaseapp.com",
+    "database": "https://wtm-manaus.firebaseio.com",
+    "api": "AIzaSyB06xKyV4GneV-omysyHHtObi6tkvloRZE",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"

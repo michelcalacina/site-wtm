@@ -1,6 +1,6 @@
 {
-  "title": "GDG Woman TechMakers",
-  "description": "O Woman Techday abordará as áreas relacionadas ao ciclo desenvolvimento de software, onde desenvolvedoras, testadoras, designers e gestoras de projetos abordarão temas como Machine Learning, Customer Development, Tecnologias de Acessibilidade, Ideação de Produtos e Realidade Virtual. Além disso, empreendedoras e líderes de comunidade estarão a frente de painéis temáticos para debate da atuação de mulheres liderando comunidades a frente de negócios.",
+  "title": "GDG Women Techmakers",
+  "description": "O Techday Manaus abordará as áreas relacionadas ao ciclo de desenvolvimento de software, onde desenvolvedoras, testadoras, designers e gestoras abordarão temas relacionados a sua vivência no ciclo. Além disso, empreendedoras e líderes de comunidade estarão a frente de painéis temáticos para debate da atuação de mulheres liderando comunidades e a frente de negócios.",
   "keywords": "event, wtm, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "28 de Abril, 2018",
   "locationAddressShort": "Manaus, Am",
@@ -32,10 +32,10 @@
   "locationDescription": "OAB AMAZONAS",
   "locationAddress": "Umberto Calderaro, 2000 · (92) 3642-0016",
   "organizerTitle": "Organização",
-  "aboutOrganizers": "O Techday Manaus será organizado pelo Women TechMaker e GDG Manaus.",
+  "aboutOrganizers": "O Techday Manaus é organizado pelo Women Techmaker e GDG Manaus.",
   "openTeamPage": "GDG Manaus",
   "whatIsWtm": "O que é WTM?",
-  "aboutWtm": "Woman TechMakers é um programa criado em 2014 pelo Google cujo objetivo é dar visibilidade, recursos e criar comunidades para incentivar a participação das mulheres na tecnologias.",
+  "aboutWtm": "Women Techmakers é um programa criado em 2014 pelo Google cujo objetivo é dar visibilidade, recursos e criar comunidades para incentivar a participação das mulheres na tecnologias.",
   "readMore": "Ler Mais",
   "copyLink": "Copiar link",
   "filteredBy": "filtered by",
@@ -48,7 +48,6 @@
   "skills": "Skills",
   "share": "Share",
   "shareWith": "Share with",
-
   "mySchedule": "My Schedule",
   "browseMore": "Browse more events",
   "youShouldSignInSessions": "Sign in to save sessions",
@@ -73,7 +72,7 @@
       "links": [
         {
           "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "https://goo.gl/RckXV5",
           "newTab": true
         }
       ]
@@ -82,8 +81,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "gdgmanaus@google.com",
+        "url": "mailto:gdgmanaus@google.com"
       }
     ]
   },
@@ -91,14 +90,14 @@
   "statistics": [
     {
       "counter": "+400",
-      "caption": "Palestrantes"
+      "caption": "Participantes"
     },
     {
       "counter": "+12",
       "caption": "Horas"
     },
     {
-      "counter": 9,
+      "counter": 11,
       "caption": "Palestras"
     },
     {
@@ -111,7 +110,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "Woman Techday 2018",
+    "videoTitle": "Women Techday 2018",
     "videoId": "DfMnJAzOFng"
   }
 }

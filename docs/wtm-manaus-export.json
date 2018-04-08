@@ -1,0 +1,891 @@
+{
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/gdg-lviv.svg",
+      "name" : "GDG Developers",
+      "url" : "https://plus.google.com/102444623953913144164",
+      "width" : 170
+    } ],
+    "title" : "Template Creator"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/GoogleDevelopers.svg",
+      "name" : "Google Developers",
+      "url" : "https://developers.google.com/"
+    }, {
+      "logoUrl" : "../images/logos/WTM.png",
+      "name" : "Women Techmakers",
+      "url" : "http://gxgbrasil.github.io/wtmbr/"
+    }, {
+      "logoUrl" : "../images/logos/oab.png",
+      "name" : "OAB Amazonas",
+      "url" : "http://oabam.org.br/site/"
+    }, {
+      "logoUrl" : "../images/logos/axes.png",
+      "name" : "Axes"
+    } ],
+    "title" : "Patrocinadores"
+  } ],
+  "schedule" : [ {
+    "date" : "2018-04-28",
+    "dateReadable" : "28 de Abril",
+    "timeslots" : [ {
+      "endTime" : "09:00",
+      "sessions" : [ [ 117 ] ],
+      "startTime" : "08:00"
+    }, {
+      "endTime" : "09:15",
+      "sessions" : [ [ 118 ] ],
+      "startTime" : "09:00"
+    }, {
+      "endTime" : "10:00",
+      "sessions" : [ [ 101 ] ],
+      "startTime" : "09:15"
+    }, {
+      "endTime" : "10:45",
+      "sessions" : [ [ 102 ], [ 114 ] ],
+      "startTime" : "10:00"
+    }, {
+      "endTime" : "11:30",
+      "sessions" : [ [ 103 ], [ 114 ] ],
+      "startTime" : "10:45"
+    }, {
+      "endTime" : "12:15",
+      "sessions" : [ [ 104 ], [ 114 ] ],
+      "startTime" : "11:30"
+    }, {
+      "endTime" : "13:15",
+      "sessions" : [ [ 105 ] ],
+      "startTime" : "12:15"
+    }, {
+      "endTime" : "14:00",
+      "sessions" : [ [ 106 ], [ 116 ] ],
+      "startTime" : "13:15"
+    }, {
+      "endTime" : "14:45",
+      "sessions" : [ [ 107 ], [ 116 ] ],
+      "startTime" : "14:00"
+    }, {
+      "endTime" : "15:30",
+      "sessions" : [ [ 108 ], [ 116 ] ],
+      "startTime" : "14:45"
+    }, {
+      "endTime" : "16:45",
+      "sessions" : [ [ 109 ] ],
+      "startTime" : "15:30"
+    }, {
+      "endTime" : "17:15",
+      "sessions" : [ [ 110 ] ],
+      "startTime" : "16:45"
+    }, {
+      "endTime" : "18:00",
+      "sessions" : [ [ 111 ], [ 115 ] ],
+      "startTime" : "17:15"
+    }, {
+      "endTime" : "18:45",
+      "sessions" : [ [ 112 ], [ 115 ] ],
+      "startTime" : "18:00"
+    }, {
+      "endTime" : "19:30",
+      "sessions" : [ [ 113 ], [ 115 ] ],
+      "startTime" : "18:45"
+    }, {
+      "endTime" : "19:45",
+      "sessions" : [ [ 119 ] ],
+      "startTime" : "19:30"
+    } ],
+    "tracks" : [ {
+      "title" : "Tecnologia"
+    }, {
+      "title" : "Painel"
+    }, {
+      "title" : "Coding Dojo"
+    }, {
+      "title" : "Palco Principal"
+    } ]
+  } ],
+  "sessions" : {
+    "101" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 101,
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [ 10 ],
+      "tags" : [ "Tecnologia" ],
+      "title" : "Liderança feminina: Desafios e oportunidades."
+    },
+    "102" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 102,
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "Tecnologia" ],
+      "title" : "Alta performance: Como desenvolver equipes de TI."
+    },
+    "103" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 103,
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [ 11 ],
+      "tags" : [ "Tecnologia" ],
+      "title" : "Confiança Criativa para vender suas ideias."
+    },
+    "104" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 104,
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [ 7 ],
+      "tags" : [ "Tecnologia" ],
+      "title" : "Uma Startup começa pela marca."
+    },
+    "105" : {
+      "description" : "Almoço",
+      "id" : 105,
+      "image" : "images/backgrounds/lunch.jpg",
+      "title" : "Almoço"
+    },
+    "106" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 106,
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [ 2 ],
+      "tags" : [ "Tecnologia" ],
+      "title" : "Lean Startup e Customer Development."
+    },
+    "107" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 107,
+      "language" : "",
+      "speakers" : [ 3 ],
+      "tags" : [ "Tecnologia" ],
+      "title" : "Pesquisa de Usuário: Como obter informações dos seus usuários (sem ser pesquisador)."
+    },
+    "108" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 108,
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [ 8 ],
+      "tags" : [ "Tecnologia" ],
+      "title" : "Machine Learning para Meros Mortais."
+    },
+    "109" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 109,
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [ 4 ],
+      "tags" : [ "Tecnologia" ],
+      "title" : "Machine Learning na Google Cloud."
+    },
+    "110" : {
+      "description" : "Pausa",
+      "id" : 110,
+      "image" : "images/backgrounds/coffee-break.jpg",
+      "title" : "Pausa."
+    },
+    "111" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 111,
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [ 9 ],
+      "tags" : [ "Tecnologia" ],
+      "title" : "Tecnologia para todos."
+    },
+    "112" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 112,
+      "language" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "Tecnologia" ],
+      "title" : "Estilos visuais como elemento narrativo no desenvolvimento de jogos."
+    },
+    "113" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 113,
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [ 5 ],
+      "tags" : [ "Tecnologia" ],
+      "title" : "Testando em Realidade Virtual."
+    },
+    "114" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 114,
+      "language" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "Painel" ],
+      "title" : "Mulheres a frente de comunidades."
+    },
+    "115" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 115,
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [ "" ],
+      "tags" : [ "Painel" ],
+      "title" : "Mulheres a frente de negócios.",
+      "videoId" : ""
+    },
+    "116" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 116,
+      "language" : "",
+      "presentation" : "",
+      "speakers" : [ 1, 6 ],
+      "tags" : [ "Coding Dojo" ],
+      "title" : "Um CODING DOJO bem descontraído com Lean e JavaCoding Dojo."
+    },
+    "117" : {
+      "description" : "Credenciamento",
+      "id" : 117,
+      "image" : "/images/backgrounds/registration.jpg",
+      "title" : "Credenciamento"
+    },
+    "118" : {
+      "description" : "Abertura",
+      "id" : 118,
+      "image" : "/images/backgrounds/opening.jpg",
+      "title" : "Abertura"
+    },
+    "119" : {
+      "description" : "Encerramento",
+      "id" : 119,
+      "image" : "/images/backgrounds/closing.jpg",
+      "title" : "Encerramento"
+    }
+  },
+  "speakers" : [ {
+    "bio" : "Adheli é desenvolvedora de software no CERTI, certificada LKU Fundamentals e com mais de 6 anos de experiência em pesquisa e desenvolvimento de software. Participou do Hackathon Hotmart for Girls Only, em Belo Horizonte, levando a sua experiência em backend com Java e Spring, e o uso da técnica dojo para otimização de aprendizado e resolução de problemas. FUT(Fifa Ultimate Team) é a sua mais nova obsessão e responde quase tudo com gifs do House.",
+    "company" : "CERTI/AM",
+    "companyLogo" : "",
+    "country" : "Amazonas, Brasil",
+    "featured" : true,
+    "id" : 1,
+    "name" : "Adheli Tavares",
+    "photoUrl" : "/images/people/adheli_tavares.jpg",
+    "shortBio" : "Desenvolvedora de Software no CERTI/AM",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/adheli.santos",
+      "name" : "Facebook"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/adheli-tavares/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "JAVA", "Spring", "Backend", "Progressive Web Apps" ],
+    "title" : "Desenvolvedora de Software no CERTI/AM"
+  }, {
+    "badges" : [ {
+      "description" : "Google Cloud Platform",
+      "link" : "https://developers.google.com/experts/people/alline-oliveira",
+      "name" : "GDE"
+    } ],
+    "bio" : "Alline Oliveira é uma das poucas mulheres no mundo certificada como Google Developer Expert, devido a seu trabalho em Cloud Computing. Já desenvolveu para Nike, Citibank, Qualcomm, Departamento de Defesa Americano, Universidade da California, TAM, Anatel, Serpro, dentre outros. Hoje é a CTO da fintech Crebit.",
+    "company" : "Crebit&GDE",
+    "companyLogo" : "",
+    "country" : "Rio de Janeiro, Brasil",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Alline Oliveira",
+    "photoUrl" : "/images/people/alline_oliveira.jpg",
+    "shortBio" : "CTO na Crebit &amp; GDE em Cloud",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/alline.oliveira",
+      "name" : "Facebook"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/jessicasimioni/",
+      "name" : "Linkedin"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/allineo",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Leadership", "Management", "Planning", "Public Relations" ],
+    "title" : "CTO na Crebit &amp; GDE em Cloud"
+  }, {
+    "bio" : "Feminista, organizadora do GDG e Women Techmakers de Sorocaba também é consultora de UX e também joga na defesa do time de Flag feminino do Sorocaba Vipers Football.",
+    "company" : "UFG",
+    "companyLogo" : "",
+    "country" : "São Paulo, Brasil",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Bianca Brancaleone",
+    "photoUrl" : "/images/people/bianca_brancaleone.jpg",
+    "shortBio" : "Arquiteta de Informações/Especialista em UX na GS Soluções e GDE em Product Design",
+    "socials" : [ null, null, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/bianca-brancaleone-4328558/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/bianca.brancaleone",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ null, "Product Design", "UX" ],
+    "title" : "Arquiteta de Informações/Especialista em UX na GS Soluções e GDE em Product Design"
+  }, {
+    "bio" : "Daniela Petruzalek é formada em Análise e Desenvolvimento de Sistemas e hoje atua como desenvolvedora no time de Big Data da Globo.com. É Google Developer Expert em Google Cloud e líder do GDG Porto Alegre e do Women Who Go na mesma cidade. Além da carreira técnica,também tem lutado pela diversidade e inclusão de mulheres, minorias de gênero e LGBTs na área da tecnologia.",
+    "company" : "Google",
+    "companyLogo" : "",
+    "country" : "São Paulo, Brasil",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Daniela Petruzalek",
+    "photoUrl" : "/images/people/daniela_petruzalek.jpg",
+    "shortBio" : "Desenvolvedora de Big Data na Globo",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/daniela.petruzalek",
+      "name" : "Facebook"
+    }, null, null, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/petruzalek/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Technical Leader", "Scala", "Python", "Oracle", "Big Data" ],
+    "title" : "Google Developer Expert"
+  }, {
+    "bio" : "Engenheira de Teste Sênior no SIDIA Samsung, atualmente atua em projetos de realidade virtual (AR/VR) em parceria com empresas na Coréia do Sul, Estados Unidos e Brasil. Possui 8 anos de experiência na área de Teste de Software, sendo formanda em Ciência da computação pela UFAM e MBA em Teste de Software. Profissional certificada CTFL e CTAL-TA",
+    "company" : "SIDIA",
+    "companyLogo" : "",
+    "country" : "Amazonas, Brasil",
+    "featured" : true,
+    "id" : 5,
+    "name" : "Elane Souza Vasconcelos",
+    "photoUrl" : "/images/people/elane_souza_vasconcelos.jpg",
+    "shortBio" : "Engenheira de Teste Sênior no SIDIA",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/Elanevasconcelos",
+      "name" : "Facebook"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/elanesouza/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Technical Leader", "Android Native", "IEEE 829", "Game QA" ],
+    "title" : "Engenheira de Testes Sr. no SIDIA"
+  }, {
+    "bio" : "Profissional com graduação em sistema de informação pela FUCAPI e atualmente pós-graduando em Ciência de Dados e Big Dada. Possui 8 anos de experiência em pesquisa e desenvolvimento de software, com ênfase em projetos web, desenvolvimento de conteúdos digitais e jogos educacionais cross browser. Vivência nas tecnologias Python, C#, angular4, react, vanillajs, html5, css.",
+    "company" : "FPFTech",
+    "companyLogo" : "",
+    "country" : "Amazonas, Brasil",
+    "featured" : true,
+    "id" : 6,
+    "name" : "Janivan Ramos",
+    "photoUrl" : "/images/people/janivam_ramos.jpg",
+    "shortBio" : "Analista de Sistemas na FPFTech",
+    "socials" : [ null, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/janivan-ferreira-ramos-957704143/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "UX", "UI", "Design", "User Experience" ],
+    "title" : "Analista de Sistemas na FPFTech"
+  }, {
+    "bio" : "Designer pleno com habilidades em branding e direção de arte.",
+    "company" : "Teewa",
+    "companyLogo" : "",
+    "country" : "Amazonas, Brasil",
+    "featured" : true,
+    "id" : 7,
+    "name" : "Jéssica Pinheiro",
+    "photoUrl" : "/images/people/jessica_pinheiro.jpg",
+    "shortBio" : "Designer gráfico no Teewa e sócio-fundadora da Bazi",
+    "socials" : [ null, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/jessica.pinheiro.75248",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "Arte", "Publicidade", null, "Empreendedorismo", "Designer" ],
+    "title" : "Designer gráfico no Teewa e sócio-fundador da Bazi"
+  }, {
+    "bio" : "Larissa Lages é Engenheira de Software no CESAR e estudante de mestrado em Inteligência Artificial pela Universidade  Federal de Pernambuco (UFPE). Se formou em 2018 em Engenharia da Computação também na UFPE. Em 2016 ganhou a competição Intel de Sistemas Embarcados com um sistema que usava Inteligência Artificial para detectar vazamento em canos subterrâneos.",
+    "company" : "CESAR",
+    "companyLogo" : "",
+    "country" : "Pernambuco, Brasil",
+    "featured" : true,
+    "id" : 8,
+    "name" : "Larissa Lages",
+    "photoUrl" : "/images/people/larissa_lages.JPG",
+    "shortBio" : "Engenheira de Software no CESAR",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/larissa.lages.9",
+      "name" : "Facebook"
+    }, null, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/larissa-lages-4080b8b4/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "IoT", "Machine Learning", "Embedded", "KNoT" ],
+    "title" : "Engenheira de Software no CESAR"
+  }, {
+    "bio" : "Graduada em ciência da computação e mestre em engenharia elétrica, trabalha há mais de 15 anos em TI. Acredita que tecnologia pode trazer justiça social e oportunidades iguais para todos. Brasileira, louca dos gatos e gamer.",
+    "company" : "Google",
+    "companyLogo" : "",
+    "country" : "California, EUA",
+    "featured" : true,
+    "id" : 9,
+    "name" : "Lia Carrari",
+    "photoUrl" : "/images/people/lial.jpg",
+    "shortBio" : "Gerente técnica do programa de acessibilidade do Google na Califórnia",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/lia.carrari",
+      "name" : "Facebook"
+    }, null, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/liacr/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Progressive Web Apps", "CSS", "HTML", "NodeJS", "JS" ],
+    "title" : "Gerente técnica do programa de acessibilidade do Google na Califórnia"
+  }, {
+    "bio" : "Atua na defesa da valorização das advogadas e  dos direitos femininos na sociedade, preside projeto voluntário De atendimento às mulheres vítimas de violência - de iniciativa da oab amazonas – comissão da mulher advogada, Indicado ao prêmio innovare em 2014, além de promover eventos com temáticas atuais voltadas às mulheres.",
+    "company" : "OAB AMAZONAS",
+    "companyLogo" : "",
+    "country" : "Amazonas, Brasil",
+    "featured" : true,
+    "id" : 10,
+    "name" : "Maria Glaucia Soares",
+    "photoUrl" : "/images/people/maria_glaucia.jpg",
+    "shortBio" : "Advogada na OAB Amazonas",
+    "socials" : {
+      "2" : {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/mariaglaucia.barbosasoares",
+        "name" : "Facebook"
+      }
+    },
+    "tags" : [ "Valorização", "Direitos Femininos" ],
+    "title" : "Advogada na OAB AMAZONAS"
+  }, {
+    "bio" : "Filha de mãe bordadeira, Rozana foi posta em contato desde cedo com o artesanato, onde mais tarde, passou a criar pontes entre o artesão e o mercado. Premiada internacionalmente pela sua atuação junto ao programa de exportação APEX. Também atua como consultora do SEBRAE/AM, onde presta consultoria para empreendedores de alguns estados do Brasil e para programas da mesma organização.",
+    "company" : "Focus Design Marketing",
+    "companyLogo" : "",
+    "country" : "Amazonas, Brasil",
+    "featured" : true,
+    "id" : 11,
+    "name" : "Rozana Trilha",
+    "photoUrl" : "/images/people/rozana_trilha.jpg",
+    "shortBio" : "Diretora de Marketing na Focus DM e Presidente na Associação Zagaia Amazônia",
+    "socials" : [ null, {
+      "icon" : "linkedin",
+      "link" : "https://br.linkedin.com/in/rozana-trilha-b5691376",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/rozana.trilha",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "Empreendedorismo", "Marketing", "Design" ],
+    "title" : "Diretora de Marketing na Focus DM e Presidente na Associação Zagaia Amazônia"
+  }, {
+    "bio" : "É Analista de Controle Externo -TI no Tribunal de Contas do Estado do Amazonas (TCE/AM), Gerente de TI na empresa Fogás e aluna de doutorado em informática do IComp/UFAM. Possui 15 anos de experiência em gestão de equipes de TI. Iniciou sua carreira como Programadora Trainee nas Lojas Bemol, onde foi Analista de Sistemas, Gerente de TI e Superintendente de TI. Optou por deixar o varejo ao ingressar por concurso no serviço público. Foi Diretora do setor de tecnologia do TCE/AM durante 4 anos, de 2011 a 2014. É formada em Processamento de Dados, especialista em desenvolvimento de sistemas e mestra em informática, todos pela UFAM. Possui MBA em Varejo pela FGV/AM. Outras áreas de interesse são Aprendizado de Máquina e Digitalização de Empresas.",
+    "company" : "Fogás",
+    "companyLogo" : "",
+    "country" : "Amazonas, Brasil",
+    "featured" : true,
+    "id" : 12,
+    "name" : "Sheila Nóbrega",
+    "photoUrl" : "/images/people/sheila_nobrega.jpg",
+    "shortBio" : "Gerente de TI na Fogás",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/sheila.nobrega",
+      "name" : "Facebook"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/sheila-da-n%C3%B3brega-silva-0a14a222/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Recuperação da Informação", "Gestão" ],
+    "title" : "Gerente de TI na Fogás"
+  }, {
+    "bio" : "Engenheira de Software no CESAR, graduada em ciência da computação e atualmente mestranda na Universidade Federal Rural de Pernambuco (UFRPE) com foco em analise de dados e processamento de imagem. Não dispensa café, e acredita no potencial das mulheres na tech.",
+    "company" : "CESAR",
+    "companyLogo" : "",
+    "country" : "Pernambuco, Brasil",
+    "featured" : true,
+    "id" : 13,
+    "name" : "Thays Silva",
+    "photoUrl" : "/images/people/thays.jpg",
+    "shortBio" : "Engenheira de Software no CESAR",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/thays-silva-97987641/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Machine Learning", "Design Patterns", "Automation" ],
+    "title" : "Engenheira de Software no CESAR"
+  }, {
+    "bio" : "Publicitária, Pós Graduada em desenvolvimento de jogos pela UEA, trabalha com direção de arte, ilustração e mídias digitais já faz um tempo. Em 2012 realizou \"um sonho de princesa\" de ter um curta metragem exibido no Anima Mundi. Sócia no Café Ananã e na fintech Soul. Eleita em 2017 como uma das jovens líderes das Américas pelo governo americano.",
+    "company" : "Fintech Soul",
+    "companyLogo" : "",
+    "country" : "Amazonas, Brasil",
+    "featured" : true,
+    "id" : 14,
+    "name" : "Yasmin Rodrigues",
+    "photoUrl" : "/images/people/yasmin.jpg",
+    "shortBio" : "Publicitária",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/yasmin-rodrigues-2b014429/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Design", "Mídias online", "Solutions" ],
+    "title" : "Publicitária"
+  } ],
+  "team" : [ {
+    "members" : [ {
+      "name" : "Oleh Zasadnyy",
+      "photoUrl" : "/images/people/oleh_zasadnyy.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+OlehZasadnyy",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/oleh.zasadnyy",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ozasadnyy",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://o.zasadnyy.com/",
+        "name" : "Blog"
+      } ],
+      "title" : "Website and sponsors"
+    }, {
+      "name" : "Sofiya Huts",
+      "photoUrl" : "/images/people/sofiya_huts.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+SofiaHuts",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/sophie.huts.7",
+        "name" : "Facebook"
+      } ],
+      "title" : "Social and media"
+    }, {
+      "name" : "Vitaliy Zasadnyy",
+      "photoUrl" : "/images/people/vitaliy_zasadnyy.jpg",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/zasadnyy",
+        "name" : "Linkedin"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/zasadnyy",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://v.zasadnyy.com/",
+        "name" : "Blog"
+      } ],
+      "title" : "Speakers"
+    }, {
+      "name" : "Marta Maxymiak",
+      "photoUrl" : "/images/people/marta_maxymiak.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/104036874811391520583",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/marta.maxymiak",
+        "name" : "Facebook"
+      } ],
+      "title" : "Party and happiness"
+    }, {
+      "name" : "Ostap Andrusiv",
+      "photoUrl" : "/images/people/ostap_andrusiv.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://google.com/+OstapAndrusiv",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/ostap.andrusiv",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/p1f",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://andrusiv.com/",
+        "name" : "Blog"
+      } ],
+      "title" : "Sponsors"
+    }, {
+      "name" : "Vasylyna Mytsak",
+      "photoUrl" : "/images/people/vasylyna_mytsak.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+ВасилинаМицак",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/vasylyna.mytsak",
+        "name" : "Facebook"
+      } ],
+      "title" : "Party and happiness"
+    }, {
+      "name" : "Volodya Karpliuk",
+      "photoUrl" : "/images/people/volodya_karpliuk.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+VolodyaKarpliuk23",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/volodya.karpluk",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/keyv23",
+        "name" : "Twitter"
+      } ],
+      "title" : "Speakers"
+    }, {
+      "name" : "Diana Pinchuk",
+      "photoUrl" : "/images/people/diana_pinchuk.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+DianaPinchuk",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/diana.pinchuk.9",
+        "name" : "Facebook"
+      } ],
+      "title" : "Social and media"
+    } ],
+    "title" : "Core Team"
+  }, {
+    "members" : [ {
+      "name" : "Ihor Dvoretskyi",
+      "photoUrl" : "/images/people/ihor_dvoretskyi.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/idvoretskyi",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/idvoretskyi",
+        "name" : "Twitter"
+      } ],
+      "title" : "Cloud stream"
+    }, {
+      "name" : "Dmytro Danylyk",
+      "photoUrl" : "/images/people/dmytro_danylyk.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+DmytroDanylyk",
+        "name" : "Google+"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/dmytrodanylyk",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.dmytrodanylyk.com/#/about",
+        "name" : "Website"
+      } ],
+      "title" : "Android Stream"
+    } ],
+    "title" : "Program Committee"
+  } ],
+  "tickets" : {
+    "elements" : [ {
+      "currency" : "R$",
+      "ends" : "06 de Abril",
+      "info" : "",
+      "name" : "Lote 1",
+      "price" : "25,00",
+      "soldOut" : false,
+      "starts" : "21 de Março"
+    }, {
+      "currency" : "R$",
+      "ends" : "20 de Abril",
+      "info" : "",
+      "name" : "Lote 2",
+      "price" : "40,00",
+      "soldOut" : false,
+      "starts" : "07 de Abril"
+    }, {
+      "currency" : "R$",
+      "ends" : "21 de Abril",
+      "name" : "Lote 3",
+      "price" : "55,00",
+      "soldOut" : false,
+      "starts" : "28 de Abril"
+    } ],
+    "url" : "http://bitly.com/WomenTechday"
+  },
+  "videos" : [ {
+    "speakers" : "Jakub Škvára",
+    "thumbnail" : "/images/sessions/116.JPG",
+    "title" : "Polymer vs other libraries",
+    "youtubeId" : "-UEURYYVCmg"
+  }, {
+    "speakers" : "Mandy Waite",
+    "thumbnail" : "/images/sessions/109.JPG",
+    "title" : "Scalable Microservices with gRPC, Kubernetes, and Containers",
+    "youtubeId" : "BZ-uR8LQRkA"
+  }, {
+    "speakers" : "Mandy Waite",
+    "thumbnail" : "/images/sessions/110.JPG",
+    "title" : "Google Cloud Platform End to End: How we built 'Cloud Spin'",
+    "youtubeId" : "n-H6jYnL32U"
+  }, {
+    "speakers" : "Mateusz Herych",
+    "thumbnail" : "/images/sessions/102.JPG",
+    "title" : "How can Android Backup break your app",
+    "youtubeId" : "89wvLLc25AY"
+  }, {
+    "speakers" : "Alex Pazhyn",
+    "thumbnail" : "/images/sessions/113.JPG",
+    "title" : "Material Design. Custom Branding",
+    "youtubeId" : "3u8864j4g24"
+  }, {
+    "speakers" : "Viktor Zozuliak",
+    "thumbnail" : "/images/sessions/122.JPG",
+    "title" : "Service Worker - Native Apps Experience For The Web",
+    "youtubeId" : "szLFi1aO398"
+  }, {
+    "speakers" : "Said Tahsin Dane",
+    "thumbnail" : "/images/sessions/101.JPG",
+    "title" : "Material Design on Custom Views",
+    "youtubeId" : "nFZxAIi8n7I"
+  }, {
+    "speakers" : "Ihor Dvoretskyi",
+    "thumbnail" : "/images/sessions/135.JPG",
+    "title" : "The Cloud Convergence: OpenStack and Kubernetes",
+    "youtubeId" : "3zbxUcyiP8Y"
+  }, {
+    "speakers" : "Juarez Filho",
+    "thumbnail" : "/images/sessions/120.JPG",
+    "title" : "Firebase Adventures - Real time platform for your apps",
+    "youtubeId" : "uz4vA21lqoE"
+  }, {
+    "speakers" : "Anton Minashkin",
+    "thumbnail" : "/images/sessions/134.JPG",
+    "title" : "Data Binding. Next big thing?",
+    "youtubeId" : "GYwvQ0YAPo4"
+  }, {
+    "speakers" : "Hallade Xavier",
+    "thumbnail" : "/images/sessions/112.JPG",
+    "title" : "Mastering the NDK with Android Studio 1.3+ and the gradle-experimental plugin",
+    "youtubeId" : "GbTe0BTuNaU"
+  }, {
+    "speakers" : "Jana Moudrá",
+    "thumbnail" : "/images/sessions/115.JPG",
+    "title" : "Let's play Dart!",
+    "youtubeId" : "DoUATBQcihI"
+  }, {
+    "speakers" : "Valentyn Shybanov",
+    "thumbnail" : "/images/sessions/106.JPG",
+    "title" : "Using GoLang for building micro-service architecture in Google Cloud Platform",
+    "youtubeId" : "euROYVOJYuI"
+  }, {
+    "speakers" : "Semih Yagcioglu",
+    "thumbnail" : "/images/sessions/124.JPG",
+    "title" : "Build Your Thing In a Weekend with AngularJS 2.0",
+    "youtubeId" : "gHd-0itPpGg"
+  }, {
+    "speakers" : "Dawid Ostrowski",
+    "thumbnail" : "/images/sessions/125.JPG",
+    "title" : "[Keynote] Lean Startup with Google",
+    "youtubeId" : "o04aL3IzmcQ"
+  }, {
+    "speakers" : "Constantine Mars",
+    "thumbnail" : "/images/sessions/133.JPG",
+    "title" : "RxJava for Android",
+    "youtubeId" : "3LQnqJhGQmI"
+  }, {
+    "speakers" : "Roman Mazur",
+    "thumbnail" : "/images/sessions/104.JPG",
+    "title" : "Power of Android Shell",
+    "youtubeId" : "a4InM2VhAvQ"
+  }, {
+    "speakers" : "Dmytro Danylyk",
+    "thumbnail" : "/images/sessions/103.JPG",
+    "title" : "Planning Android Screens",
+    "youtubeId" : "gQbjjOE2yF4"
+  }, {
+    "speakers" : "Dima Maleev",
+    "thumbnail" : "/images/sessions/108.JPG",
+    "title" : "V8 under the hood",
+    "youtubeId" : "Oazl4fx-X68"
+  }, {
+    "speakers" : "Kseniia Shumelchyk",
+    "thumbnail" : "/images/sessions/117.JPG",
+    "title" : "Bluetooth Low Energy and iBeacon development for Android",
+    "youtubeId" : "tEUmmZDwHDg"
+  }, {
+    "speakers" : "Maciej Górski",
+    "thumbnail" : "/images/sessions/114.JPG",
+    "title" : "Continuous Delivery with Ease",
+    "youtubeId" : "b-4upgkYdZo"
+  }, {
+    "speakers" : "Michał Tajchert",
+    "thumbnail" : "/images/sessions/105.JPG",
+    "title" : "Hijacking notification actions - lets respond to your messages!",
+    "youtubeId" : "2rT4Us7cFDg"
+  }, {
+    "speakers" : "Roman Herasymenko",
+    "thumbnail" : "/images/sessions/111.JPG",
+    "title" : "New security model in Marshmallow",
+    "youtubeId" : "lFpb-LaYDvs"
+  }, {
+    "speakers" : "Valentyn Shybanov",
+    "thumbnail" : "/images/sessions/107.JPG",
+    "title" : "Angular2: Reasoning behind technical decisions",
+    "youtubeId" : "V7GCjnfsOCE"
+  }, {
+    "speakers" : "",
+    "thumbnail" : "/images/sessions/140.JPG",
+    "title" : "Fireside Chat",
+    "youtubeId" : "8kXNWOhEAhE"
+  }, {
+    "speakers" : "Alexey Rybakov",
+    "thumbnail" : "/images/sessions/119.JPG",
+    "title" : "Android TV Development",
+    "youtubeId" : "SoXb9cXnJhc"
+  }, {
+    "speakers" : "Buşra Deniz",
+    "thumbnail" : "/images/sessions/123.JPG",
+    "title" : "Google WebRTC on Mobile",
+    "youtubeId" : "YWaOdwCenZM"
+  } ]
+}
